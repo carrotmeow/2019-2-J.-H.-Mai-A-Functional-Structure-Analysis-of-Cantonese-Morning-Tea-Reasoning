@@ -1,0 +1,483 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{gar}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ef4ec76a8b5dffa1cb4e474ba672a8ca}{%
+           family={Garfinkel},
+           familyi={G\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Maryland}%
+      }
+      \list{publisher}{2}{%
+        {Rowman}%
+        {Littlefield Publishers}%
+      }
+      \strng{namehash}{ef4ec76a8b5dffa1cb4e474ba672a8ca}
+      \strng{fullhash}{ef4ec76a8b5dffa1cb4e474ba672a8ca}
+      \strng{bibnamehash}{ef4ec76a8b5dffa1cb4e474ba672a8ca}
+      \strng{authorbibnamehash}{ef4ec76a8b5dffa1cb4e474ba672a8ca}
+      \strng{authornamehash}{ef4ec76a8b5dffa1cb4e474ba672a8ca}
+      \strng{authorfullhash}{ef4ec76a8b5dffa1cb4e474ba672a8ca}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ethnomethodology's Program-Working Out Durkheim's Aphorism}
+      \field{userf}{en}
+      \field{year}{2002}
+    \endentry
+    \entry{gum}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bbd16b919e0265946137b123d5479fea}{%
+           family={Gumperz},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{fullhash}{bbd16b919e0265946137b123d5479fea}
+      \strng{bibnamehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{authorbibnamehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{authornamehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{authorfullhash}{bbd16b919e0265946137b123d5479fea}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discourse Strategies}
+      \field{userf}{en}
+      \field{year}{1982}
+    \endentry
+    \entry{gum3}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=bbd16b919e0265946137b123d5479fea}{%
+           family={Gumperz},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=230b810f2163239cf392a87b849c51c8}{%
+           family={Schiffrin},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=eb157423aaa533ed7d8fc8654c99268e}{%
+           family={Tannen},
+           familyi={T\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e624890adc92eb64ed52d4334601c51d}{%
+           family={Hamilton},
+           familyi={H\bibinitperiod},
+           given={H.\bibnamedelimi E.},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing}%
+      }
+      \strng{namehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{fullhash}{bbd16b919e0265946137b123d5479fea}
+      \strng{bibnamehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{authorbibnamehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{authornamehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{authorfullhash}{bbd16b919e0265946137b123d5479fea}
+      \strng{editorbibnamehash}{9eceafff619aa102ae3f7e6bb97d6b9e}
+      \strng{editornamehash}{9eceafff619aa102ae3f7e6bb97d6b9e}
+      \strng{editorfullhash}{9eceafff619aa102ae3f7e6bb97d6b9e}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Handbook of Discourse Analysis}
+      \field{title}{Interactional Sociolinguistics: {A} Personal Perspective}
+      \field{userf}{en}
+      \field{year}{2001}
+      \field{pages}{215\bibrangedash 228}
+      \range{pages}{14}
+    \endentry
+    \entry{gum2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bbd16b919e0265946137b123d5479fea}{%
+           family={Gumperz},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{fullhash}{bbd16b919e0265946137b123d5479fea}
+      \strng{bibnamehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{authorbibnamehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{authornamehash}{bbd16b919e0265946137b123d5479fea}
+      \strng{authorfullhash}{bbd16b919e0265946137b123d5479fea}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{语言教学与研究}
+      \field{number}{1}
+      \field{title}{On the Development of Interactional Sociolinguistics}
+      \field{userf}{zh}
+      \field{year}{2003}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{gum4}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=bbd16b919e0265946137b123d5479fea}{%
+           family={Gumperz},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=cb6d5228e26c43bf05f89be54c88f5da}{%
+           family={Berenz.},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=85e63db1a5f57fe8a06a24875a162148}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=23906d2fafa5a9485b92ba03b6e199d9}{%
+           family={Lampert},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hillsdale, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Lawrence Erlbaum Associates}%
+      }
+      \strng{namehash}{82b79cb03741d190f7c583351c2a6da1}
+      \strng{fullhash}{82b79cb03741d190f7c583351c2a6da1}
+      \strng{bibnamehash}{82b79cb03741d190f7c583351c2a6da1}
+      \strng{authorbibnamehash}{82b79cb03741d190f7c583351c2a6da1}
+      \strng{authornamehash}{82b79cb03741d190f7c583351c2a6da1}
+      \strng{authorfullhash}{82b79cb03741d190f7c583351c2a6da1}
+      \strng{editorbibnamehash}{d9659f5660c2fe02f585ea30b6b75da4}
+      \strng{editornamehash}{d9659f5660c2fe02f585ea30b6b75da4}
+      \strng{editorfullhash}{d9659f5660c2fe02f585ea30b6b75da4}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Transcribing and Coding Method for Language Research}
+      \field{title}{Transcribing Conversational Exchange}
+      \field{userf}{en}
+      \field{year}{1993}
+      \field{pages}{91\bibrangedash 121}
+      \range{pages}{31}
+    \endentry
+    \entry{lyn}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1826ac8cecb26d041fb2dd114064b3d8}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{1826ac8cecb26d041fb2dd114064b3d8}
+      \strng{fullhash}{1826ac8cecb26d041fb2dd114064b3d8}
+      \strng{bibnamehash}{1826ac8cecb26d041fb2dd114064b3d8}
+      \strng{authorbibnamehash}{1826ac8cecb26d041fb2dd114064b3d8}
+      \strng{authornamehash}{1826ac8cecb26d041fb2dd114064b3d8}
+      \strng{authorfullhash}{1826ac8cecb26d041fb2dd114064b3d8}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Scientific Practice and Ordinary Action: Ethnomethodology and Social Studies of Science}
+      \field{userf}{en}
+      \field{year}{1993}
+    \endentry
+    \entry{sac}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=a8da27aa0a164a6f21aa1480cceee482}{%
+           family={Sacks},
+           familyi={S\bibinitperiod},
+           given={Harvey},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=36e8128bca483f292c1cd6b328ffa096}{%
+           family={Alkinson},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi Maxwell},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=383afcd3be219664661510a78fb43d6f}{%
+           family={Heritage},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a8da27aa0a164a6f21aa1480cceee482}
+      \strng{fullhash}{a8da27aa0a164a6f21aa1480cceee482}
+      \strng{bibnamehash}{a8da27aa0a164a6f21aa1480cceee482}
+      \strng{authorbibnamehash}{a8da27aa0a164a6f21aa1480cceee482}
+      \strng{authornamehash}{a8da27aa0a164a6f21aa1480cceee482}
+      \strng{authorfullhash}{a8da27aa0a164a6f21aa1480cceee482}
+      \strng{editorbibnamehash}{66208cdf4e6f923b192309f7d2db885f}
+      \strng{editornamehash}{66208cdf4e6f923b192309f7d2db885f}
+      \strng{editorfullhash}{66208cdf4e6f923b192309f7d2db885f}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Structure of Social Action}
+      \field{title}{Note on Methodology}
+      \field{userf}{en}
+      \field{year}{1984}
+      \field{pages}{21\bibrangedash 27}
+      \range{pages}{7}
+    \endentry
+    \entry{ju}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=42e5a3d5a37230fe95001c26ed0be961}{%
+           family={鞠实儿},
+           familyi={鞠\bibinitperiod}}}%
+      }
+      \strng{namehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{fullhash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{bibnamehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{authorbibnamehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{authornamehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{authorfullhash}{42e5a3d5a37230fe95001c26ed0be961}
+      \field{sortinit}{鞠}
+      \field{sortinithash}{d150ce2a90d62c2bf817903e0d790241}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{中国社会科学}
+      \field{number}{1}
+      \field{title}{论逻辑的文化相对性从民族志和历史学的观点看}
+      \field{userf}{zh}
+      \field{year}{2010}
+      \field{pages}{35\bibrangedash 47}
+      \range{pages}{13}
+    \endentry
+    \entry{ju1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=42e5a3d5a37230fe95001c26ed0be961}{%
+           family={鞠实儿},
+           familyi={鞠\bibinitperiod}}}%
+      }
+      \strng{namehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{fullhash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{bibnamehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{authorbibnamehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{authornamehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{authorfullhash}{42e5a3d5a37230fe95001c26ed0be961}
+      \field{sortinit}{鞠}
+      \field{sortinithash}{d150ce2a90d62c2bf817903e0d790241}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{7月13日，中山大学逻辑与认知所报告}
+      \field{title}{论证的语用学基础}
+      \field{userf}{zh}
+      \field{year}{2017}
+    \endentry
+    \entry{ju2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=42e5a3d5a37230fe95001c26ed0be961}{%
+           family={鞠实儿},
+           familyi={鞠\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=16243fd2f03ee27a1578e75d601947b6}{%
+           family={鞠实儿、文学锋等},
+           familyi={鞠\bibinitperiod}}}%
+      }
+      \strng{namehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{fullhash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{bibnamehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{authorbibnamehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{authornamehash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{authorfullhash}{42e5a3d5a37230fe95001c26ed0be961}
+      \strng{editorbibnamehash}{16243fd2f03ee27a1578e75d601947b6}
+      \strng{editornamehash}{16243fd2f03ee27a1578e75d601947b6}
+      \strng{editorfullhash}{16243fd2f03ee27a1578e75d601947b6}
+      \field{sortinit}{鞠}
+      \field{sortinithash}{d150ce2a90d62c2bf817903e0d790241}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{融合与修正：跨文化交流的逻辑与认知研究}
+      \field{note}{教育部哲学社科重大课题攻关项目（No.~10JZD0006）结项著作，待出版}
+      \field{title}{走向田野的逻辑学}
+      \field{userf}{zh}
+      \field{year}{2019}
+    \endentry
+    \entry{mai}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3b00ef1656764875a5e65ad10ce5a82d}{%
+           family={麦耘，谭步云},
+           familyi={麦\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {广州}%
+      }
+      \list{publisher}{1}{%
+        {世界图书出版公司}%
+      }
+      \strng{namehash}{3b00ef1656764875a5e65ad10ce5a82d}
+      \strng{fullhash}{3b00ef1656764875a5e65ad10ce5a82d}
+      \strng{bibnamehash}{3b00ef1656764875a5e65ad10ce5a82d}
+      \strng{authorbibnamehash}{3b00ef1656764875a5e65ad10ce5a82d}
+      \strng{authornamehash}{3b00ef1656764875a5e65ad10ce5a82d}
+      \strng{authorfullhash}{3b00ef1656764875a5e65ad10ce5a82d}
+      \field{sortinit}{麦}
+      \field{sortinithash}{3895f7d87a4ecb5b1ee93a7448383239}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{实用广州话分类词典}
+      \field{userf}{zh}
+      \field{year}{2016}
+    \endentry
+    \entry{mo}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4bb9d294683301338b7b5db2bc00c225}{%
+           family={茉莉},
+           familyi={茉\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {广州}%
+      }
+      \list{publisher}{1}{%
+        {广东教育出版社}%
+      }
+      \strng{namehash}{4bb9d294683301338b7b5db2bc00c225}
+      \strng{fullhash}{4bb9d294683301338b7b5db2bc00c225}
+      \strng{bibnamehash}{4bb9d294683301338b7b5db2bc00c225}
+      \strng{authorbibnamehash}{4bb9d294683301338b7b5db2bc00c225}
+      \strng{authornamehash}{4bb9d294683301338b7b5db2bc00c225}
+      \strng{authorfullhash}{4bb9d294683301338b7b5db2bc00c225}
+      \field{sortinit}{茉}
+      \field{sortinithash}{d471fa0aa36ee5705b1f9802fa12bbad}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{一盅两件——广式早茶}
+      \field{userf}{zh}
+      \field{year}{2009}
+    \endentry
+    \entry{yu}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6872dcce0df1b1eb77988075e69d145}{%
+           family={于国栋，李枫},
+           familyi={于\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6872dcce0df1b1eb77988075e69d145}
+      \strng{fullhash}{b6872dcce0df1b1eb77988075e69d145}
+      \strng{bibnamehash}{b6872dcce0df1b1eb77988075e69d145}
+      \strng{authorbibnamehash}{b6872dcce0df1b1eb77988075e69d145}
+      \strng{authornamehash}{b6872dcce0df1b1eb77988075e69d145}
+      \strng{authorfullhash}{b6872dcce0df1b1eb77988075e69d145}
+      \field{sortinit}{于}
+      \field{sortinithash}{7023e1a07f260e42fa62d10ec4dd8e4c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{科学技术与辩证法}
+      \field{number}{4}
+      \field{title}{会话分析：尊重语言事实的社会学研究方法}
+      \field{userf}{zh}
+      \field{year}{2009}
+      \field{pages}{14\bibrangedash 17}
+      \range{pages}{4}
+    \endentry
+    \entry{zhang}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c55c023ff4ea228e45f885874fcdd079}{%
+           family={张励妍，倪列怀},
+           familyi={张\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {香港}%
+      }
+      \list{publisher}{1}{%
+        {万里书店出版}%
+      }
+      \strng{namehash}{c55c023ff4ea228e45f885874fcdd079}
+      \strng{fullhash}{c55c023ff4ea228e45f885874fcdd079}
+      \strng{bibnamehash}{c55c023ff4ea228e45f885874fcdd079}
+      \strng{authorbibnamehash}{c55c023ff4ea228e45f885874fcdd079}
+      \strng{authornamehash}{c55c023ff4ea228e45f885874fcdd079}
+      \strng{authorfullhash}{c55c023ff4ea228e45f885874fcdd079}
+      \field{sortinit}{张}
+      \field{sortinithash}{5224dd6ea8d67d595848333a2165db73}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{港式广州话词典}
+      \field{userf}{zh}
+      \field{year}{1999}
+    \endentry
+    \entry{zheng}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0c27a26813551fab893cd0637f866d90}{%
+           family={郑立华},
+           familyi={郑\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {上海}%
+      }
+      \list{publisher}{1}{%
+        {上海外语教育出版社}%
+      }
+      \strng{namehash}{0c27a26813551fab893cd0637f866d90}
+      \strng{fullhash}{0c27a26813551fab893cd0637f866d90}
+      \strng{bibnamehash}{0c27a26813551fab893cd0637f866d90}
+      \strng{authorbibnamehash}{0c27a26813551fab893cd0637f866d90}
+      \strng{authornamehash}{0c27a26813551fab893cd0637f866d90}
+      \strng{authorfullhash}{0c27a26813551fab893cd0637f866d90}
+      \field{sortinit}{郑}
+      \field{sortinithash}{da280f5d956b2f26586b0f6798d24ffb}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{交际与面子博弈——互动社会语言学研究}
+      \field{userf}{zh}
+      \field{year}{2012}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
